@@ -1,0 +1,58 @@
+.code-editor {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.code-editor__toolbar {
+    margin-bottom: 10px;
+}
+
+.code-editor__button {
+    padding: 10px 20px;
+    background-color: #0074d9;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+    border: 2px solid black;
+
+}
+
+.code-editor__button--copy {
+    background-color: #ff4136;
+}
+
+.code-editor__button--lock {
+    background-color: #2ecc40;
+}
+
+.code-editor__textarea {
+    width: 98%;
+    height: 300px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border: 5px solid black;
+}
+
+.code-editor__output {
+    width: 98%;
+    height: 100px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+    border: 2px solid black;
+}
+
+#run-button {
+    width: 100%;
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: #0074d9;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border: 2px solid black;
+}
