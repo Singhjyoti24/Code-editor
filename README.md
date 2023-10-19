@@ -13,7 +13,7 @@ This is a simple code editor application that allows you to write and edit code.
 Before using this code editor, you need to have the following installed:
 
 - VS Code 
-- HTML, CSS, Javascript and Live Server extensionin VS Code
+- HTML, CSS, Javascript and Live Server extension in VS Code
 
 ### Installation
 
